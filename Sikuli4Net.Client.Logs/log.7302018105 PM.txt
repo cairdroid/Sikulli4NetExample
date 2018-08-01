@@ -1,0 +1,1 @@
+:::Making Request to Service: http://localhost:8080/sikuli/api/find POST: {"jPattern":{"imagePath":"C:/Users/CarlosIbarra/source/repos/sikulitest/sikulitest/bin/Debug/images/imageAfter.png","offset_x":0,"offset_y":0,"similar":0.7},"highlight":true}:::
